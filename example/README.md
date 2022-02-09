@@ -1,6 +1,6 @@
-# animated_search_bar
+# flutter search_bar_animated
 
-A new Flutter project.
+Demonstrates how to use the search_bar_animated package.
 
 ## Getting Started
 

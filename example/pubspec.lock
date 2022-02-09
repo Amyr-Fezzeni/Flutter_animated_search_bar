@@ -112,10 +112,10 @@ packages:
   search_bar_animated:
     dependency: "direct main"
     description:
-      name: search_bar_animated
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.0.1"
+      path: ".."
+      relative: true
+    source: path
+    version: "1.0.0"
   sky_engine:
     dependency: transitive
     description: flutter
