@@ -1,11 +1,11 @@
 name: search_bar_animated
 description: A flutter package that has an animated search bar animation transformation.
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/Amyr-Fezzeni/Flutter_animated_search_bar
 
 environment:
-  sdk: ">=2.16.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.12.0"
 
 dependencies:
   flutter:
